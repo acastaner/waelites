@@ -40,7 +40,7 @@ It’s therefore important to keep one rule in mind: the larger the difference b
 Boosting Accuracy
 ^^^^^^^^^^^^^^^^^
 
-Perception is an attribute that increases the character’s Accuracy (`“Natural Accuracy”`) by 3 for each point above 10 that is allocated in it. This means that a character with 20 Accuracy will benefit of 30 points of Accuracy. Decreasing Perception has the exact same effect (-3 Natural Accuracy per point below 10).
+Perception is an attribute that increases the character’s Accuracy (`“Natural Accuracy”`) by 1 for each point above 10 that is allocated in it. This means that a character with 20 Perception will benefit of 10 points of Accuracy. Decreasing Perception has the exact same effect (-1 Natural Accuracy per point below 10).
 
 Another way to increase Accuracy is by the way of Weapon Enchantments:
 * Fine and “Accurate 1” will provide 5 Accuracy
@@ -58,8 +58,11 @@ Monks first get accuracy bonuses as they level up (check this).
 Another way to boost Accuracy is through Buff spells. : 
 
 * Priests
-    ** Blessing (rank 1) : All allies in the area of effect gain a +8 Accuracy bonus. 
-    ** (complete the list)
+    ** Blessing (rank 1) : Allies +5 Accuracy, +10% Damage for 20 sec
+    ** Devotions for the Faithful (rank 4) : Allies +4 Might, +20 Melee Accuracy, +20 Ranged Accuracy for 30 sec
+    ** Champion's Boon (rank 5) : Single targeted ally gains +10 Might, +10 Perception, +5 Damage Reduction for 30 sec (the Perception part of this buff increases Accuracy by 30)
+    ** Crowns for the Faithful (rank 6) : Allies +6 Perception, +25 Resolve, +6 Intellect for 30 sec
+    ** Minor Avatar (rank 7) : Self +20% Melee Damage, +20% Ranged Damage, +8 Might, +8 Dexterity, +8 Constitution, +8 Perception, +40 Max Endurance, +8 Resolve, +8 Intellect for 30 sec
 * Wizards
     ** Something something (rank 1) : Increase Caster's Accuracy by 10 (?)
     ** (complete the list)
@@ -68,6 +71,12 @@ Another way to boost Accuracy is through Buff spells. :
 Some Talents also provide an Accuracy bonus. (link to something else here probably?)
 
 Finally, some items provide an Accuracy bonus. Sometimes it’s very wide and benefits all type of attacks. In some cases the effect explicitly list what kind of attacks the effect will benefit (for instance Unarmed Damage or Ranged Weapons only).
+
+Decreasing anemies Accuracy
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+* Priests
+    ** Despondent Blows (rank 3) : Enemies -15 Melee Accuracy, +15% Crits converted to Hits for 30 sec
 
 Stacking Accuracy
 ^^^^^^^^^^^^^^^^^
