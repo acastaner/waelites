@@ -58,14 +58,16 @@ Monks first get accuracy bonuses as they level up (check this).
 Another way to boost Accuracy is through Buff spells. : 
 
 * Priests
-    ** Blessing (rank 1) : Allies +5 Accuracy, +10% Damage for 20 sec
-    ** Devotions for the Faithful (rank 4) : Allies +4 Might, +20 Melee Accuracy, +20 Ranged Accuracy for 30 sec
-    ** Champion's Boon (rank 5) : Single targeted ally gains +10 Might, +10 Perception, +5 Damage Reduction for 30 sec (the Perception part of this buff increases Accuracy by 30)
-    ** Crowns for the Faithful (rank 6) : Allies +6 Perception, +25 Resolve, +6 Intellect for 30 sec
-    ** Minor Avatar (rank 7) : Self +20% Melee Damage, +20% Ranged Damage, +8 Might, +8 Dexterity, +8 Constitution, +8 Perception, +40 Max Endurance, +8 Resolve, +8 Intellect for 30 sec
+
+    * Blessing (rank 1) : Allies +5 Accuracy, +10% Damage for 20 sec
+    * Devotions for the Faithful (rank 4) : Allies +4 Might, +20 Melee Accuracy, +20 Ranged Accuracy for 30 sec
+    * Champion's Boon (rank 5) : Single targeted ally gains +10 Might, +10 Perception, +5 Damage Reduction for 30 sec (the Perception part of this buff increases Accuracy by 30)
+    * Crowns for the Faithful (rank 6) : Allies +6 Perception, +25 Resolve, +6 Intellect for 30 sec
+    * Minor Avatar (rank 7) : Self +20% Melee Damage, +20% Ranged Damage, +8 Might, +8 Dexterity, +8 Constitution, +8 Perception, +40 Max Endurance, +8 Resolve, +8 Intellect for 30 sec
 * Wizards
-    ** Something something (rank 1) : Increase Caster's Accuracy by 10 (?)
-    ** (complete the list)
+
+    * Something something (rank 1) : Increase Caster's Accuracy by 10 (?)
+    * (complete the list)
 * More classes
 
 Some Talents also provide an Accuracy bonus. (link to something else here probably?)
@@ -76,7 +78,8 @@ Decreasing anemies Accuracy
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 * Priests
-    ** Despondent Blows (rank 3) : Enemies -15 Melee Accuracy, +15% Crits converted to Hits for 30 sec
+
+    * Despondent Blows (rank 3) : Enemies -15 Melee Accuracy, +15% Crits converted to Hits for 30 sec
 
 Stacking Accuracy
 ^^^^^^^^^^^^^^^^^
@@ -89,4 +92,3 @@ There are rules for stacking accuracy. For instance, it's not possible to get an
 * Item effects. Similarly to spells, only the item providing the highest Accuracy bonus will be taken into account - others will be Supressed. Again as with the spells, if the actual effect description is different, then the Accuracy will add up.
 * Talents. Some talents provide an Accuracy bonus, to a specific situation (a specific group of weapons in the case of Weapon Specializations, a special kind of weapons in the case of Marskman, etc.)
 * Racial bonuses. For instance, a Wood Elf has a +4 Accuracy bonus to enemies more than 4 meters away.
- 
