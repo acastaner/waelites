@@ -12,15 +12,16 @@ Archives:
    attributes
    accuracy
    
+Spells:
+
+.. toctree::
+    :maxdepth: 1
+    
+    spells/priest
+   
 Misc.:
 
 .. toctree::
     :maxdepth: 1
     
     license
-
-Indices and tables
-==================
-
-* :ref:`search`
-
