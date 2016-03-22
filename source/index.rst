@@ -17,6 +17,7 @@ Spells:
 .. toctree::
     :maxdepth: 1
     
+    spells/druid
     spells/priest
    
 Misc.:
